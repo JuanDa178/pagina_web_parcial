@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
+
+/* Inicio */
+.Imagenes-fondo{
+    display: flex;
+    
+}
+
+.Audi-fondo{
+    height:400px;
+    width: 650px;
+}
+
+.Moto-fondo{
+    height: 400px;
+    width: 650px;
+}
+
+.menu{
+    display: flex;
+    background-color: rgb(37, 145, 234);
+}
+
+.autos{
+    border: 2px solid black;
+    width: 100px;
+    margin-left: 300px;
+}
+.motos{
+    border: 2px solid black;
+    width: 100px;
+    margin-left: 500px;
+}
+.linea{
+    border: 1px solid black;
+    position:absolute;
+    margin-left: 650px;
+    height: 80px;
+}
+
+/* Menú */
+
+.marcas{
+    margin-top: 0px;
+    background-color: blue;
+    font-size: 50px ;
+    padding: 10px;
+    padding-left: 400px;
+    border: 2px solid black;
+}
+.barra{
+}
+.cuadros{
+    display: flex;
+    
+}
+.cuadro-1{
+    
+    display: flex;
+    place-items: center;
+    background-color: blue;
+    font-size: 30px;
+    border: 2px solid black;
+    height: 60px;
+    width: 400px;
+    margin-right: 100px;
+}
+.c-modelo-1{
+    margin-left: 40px;
+}
+.boton-marca{
+    margin-left: 30px;
+    
+}
+.cuadro-2{
+    display: flex;
+    place-items: center;
+    background-color: blue;
+    font-size: 30px;
+    border: 2px solid black;
+    height: 60px;
+    width: 450px;
+    margin-right: 100px;
+}
+.c-modelo-2{
+    margin-left: 40px;
+}
+
+.boton-marca-1{
+    margin-left: 40px;
+    size: 100px;
+}
+.buscar{
+    display: flex;
+    border: 1px solid black;
+    font-size: 40px;
+    background-color: green;
+    padding-left: 10px;
+    margin-top: 14px;
+}
+.barra{
+    border: 1px solid black;
+    height: 30px;
+    width: 10000px;
+    background-color: red;
+    margin-top: 0px;
+}
+/* Marcas de carros */
+
+.cuadro1-audi{
+    
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
+.cuadro2-audi{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
+
+.audi{
+    font-size: 15px;
+    border: 1px solid black;
+}   
